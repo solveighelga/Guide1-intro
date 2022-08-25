@@ -12,8 +12,8 @@
         <!-- Comment on header here: Added a navigation bar-->
         <header>
             <!-- list with disabled links and a logo-->
-            <ul>
-                <li><img src="images/petlogo.jpg" alt="petlogo"></li>
+            <ul id="navbar">
+                <li><img src="images/petlogo.jpg" alt="petlogo" id="logo"></li>
                 <li><a href="#">Home</a></li>
                 <li><a href="#">Pet News</a></li>
                 <li><a href="#">Contact Us</a></li>
@@ -21,14 +21,18 @@
             </ul>
         </header>
 
-        <!-- Comment on main-->
+        <!-- Comment on main: Had to work my way down from row to column to get the image next to each other-->
         <main>
             <h1>Did you loose your pet? You came to the right place!</h1>
             <section>
-
-            </section>
-            <section>
-
+                <div id="row">
+                    <div class="column">
+                        <img src="images/lost_dog.jpg">
+                    </div>
+                    <div class="column">
+                        <img src="images/lost_bird.jpeg">
+                    </div>
+                </div>
             </section>
         </main>
 
