@@ -15,8 +15,9 @@ Step 7: In CSS add the font I want
 ## Footer
 Step 8: Set contact email in footer. 
 Step 9: Make the link go straight to email: href="mailto:lostpet@lostpet.com"
+Step 10: Make the footer bar match the navigation bar.
 ## Images
-Step 10: Images of lost pets.
-Step 11: Figure out how I wanted to postiion the images. Row + Column.
-Step 12: worked with id="" and # in styles + class and . to connect them together.
+Step 11: Images of lost pets.
+Step 12: Figure out how I wanted to postiion the images. Row + Column.
+Step 13: worked with id="" and # in styles + class and . to connect them together.
 - Id one per use. Class multiple times.
