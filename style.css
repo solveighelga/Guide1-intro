@@ -45,6 +45,8 @@ h1 {
     text-align: center;
     color: white;
     font-size: 15px;
+    background-color: rgb(164, 160, 160);
+    overflow: hidden;
   }
 
 #row {
